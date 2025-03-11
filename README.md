@@ -1,3 +1,20 @@
+# How to run
+ - npm install
+ - npm run dev
+   
+# Feature
+- Create user
+- Login
+- Search Movie or Tv Series
+- Show popular Movie
+
+# Tech
+- Using zustand for state global management
+- Using react query to store and cache query results
+- Using axios to fetch data from API
+- Using https://api.themoviedb.org/3 as API for movie
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
